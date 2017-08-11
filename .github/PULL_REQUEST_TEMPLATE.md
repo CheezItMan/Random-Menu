@@ -3,10 +3,10 @@
 
 |  Feature  |   Feedback	                                                                             |
 |---	|---	|
-|  Random Menu of 10 items displayed in the terminal.  | Check   |
-|  Generator pulls one random item from each array to create menu items.  | Check   |
+|  Random Menu of 10 items displayed in the terminal.  |    |
+|  Generator pulls one random item from each array to create menu items.  |    |
 | Comprehension questions answered|   | 
 |	**Baseline**	|	|
-|  Readable code with consistent indentation.  |  Check  |
+|  Readable code with consistent indentation.  |    |
 |   **Extras**	|   	|
 |   |   	|
