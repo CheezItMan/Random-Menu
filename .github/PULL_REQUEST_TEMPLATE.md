@@ -1,11 +1,12 @@
 # Random Menu
-Congratulations! You're submitting your assignment.
+## What We're Looking For
 
-## Comprehension Questions
-
-|  Question 	|  Answer 	|
+|  Feature  |   Feedback	                                                                             |
 |---	|---	|
-|  How did you store menu components? Why? |  |
-|  Could you have stored components using a different data structure? For example, if you used an Array could you have used a Hash?	|   	|
-|  Did you find yourself repeating the same code?  Why did you have to do it that way?	|   	|
-|  What type of loop did you use?  Why did you choose that type?	|   	|
+|  Random Menu of 10 items displayed in the terminal.  | Check   |
+|  Generator pulls one random item from each array to create menu items.  | Check   |
+| Comprehension questions answered|   | 
+|	**Baseline**	|	|
+|  Readable code with consistent indentation.  |  Check  |
+|   **Extras**	|   	|
+|   |   	|
